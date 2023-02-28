@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "authentication",
+    "slug": "authentication",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "fdabd6d9-438c-4b56-9f88-fe66c607816f"
+      }
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+  
+}
